@@ -1,10 +1,6 @@
 # Swipe Out! — Final Game Design Document & Project README
 
-**Lead Game Designer:** Tolga Dıgdıgoğlu
-
 **Project Code:** SWIPE-OUT-2026
-
-**Date:** May 24, 2026
 
 ---
 
