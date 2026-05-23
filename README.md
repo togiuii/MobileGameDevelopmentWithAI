@@ -1,6 +1,9 @@
 # Swipe Out! — Final Game Design Document & Project README
 
+
 **Project Code:** SWIPE-OUT-2026
+
+To download: https://drive.google.com/file/d/1kvGQ-hfJSChxZima4m_mRnbHuHs8ffxZ/view?usp=sharing
 
 ---
 
@@ -118,4 +121,4 @@ AI was utilized to format the explicit syntax for chaining DOTween actions in Un
 * **Step 4: 2D Generation Asset Pipeline**
 To establish a clean, cohesive visual direction within a compressed timeline, generative AI tools were leveraged to create 100% of the game's 2D assets. This included designing perfectly square, uniform block textures, contrasting color profiles for the player block, and sleek minimalist UI icons for the main menu and pause panels.
 
-To download: https://drive.google.com/file/d/1kvGQ-hfJSChxZima4m_mRnbHuHs8ffxZ/view?usp=sharing
+
